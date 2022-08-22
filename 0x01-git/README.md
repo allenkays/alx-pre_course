@@ -1,2 +1,2 @@
-First ALX git session
-git essentials
+First ALX git session:
+"git essentials"
